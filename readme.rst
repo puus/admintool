@@ -13,13 +13,13 @@ CodeIgniter is a powerful PHP framework with a very small footprint, built for d
 **************************
 Data Abstraction Layer (DAL)
 **************************
-
+See comments in application/models/data_acccess_layer.php
 
 
 *******************
 View Compositing
 *******************
-
+See comments in application/views/partials/framework.php
 
 
 ************
