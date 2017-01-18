@@ -6,11 +6,11 @@
                 'icon' => 'fa fa-dashboard'
             ],
             'Samples' => [
-                'link' => '/sample',
+                'link' => '/samples',
                 'icon' => 'fa fa-book'
             ],
             'More Samples' => [
-                'link' => '/sample2',
+                'link' => '/moresamples',
                 'icon' => 'fa fa-question-circle-o'
             ]
         ]
