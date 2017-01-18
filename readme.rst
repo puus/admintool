@@ -8,8 +8,8 @@ AdminTool is a simple framework for web based adinistrative portals. It's built 
 Demo
 *******************
 http://admintool.perceptiveweb.solutions
-username: test@test.com
-password: password
+
+username: test@test.com / password: password
 
 *******************
 CodeIgniter (https://github.com/bcit-ci/CodeIgniter)
