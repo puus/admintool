@@ -65,7 +65,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <?php
 $content = ob_get_clean();
 
-$template = $this->load->view('partials/framework.php', [
+$template = $this->load->view('framework/main.php', [
     'title'       => 'Dashboard',
     'pagetitle'   => 'Dashboard',
     'breadcrumbs' => [],

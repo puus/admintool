@@ -36,7 +36,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <?php
 $content = ob_get_clean();
 
-$template = $this->load->view('partials/unauthenticated.php', [
+$template = $this->load->view('framework/unauthenticated.php', [
     'title' => 'Login',
     'content' => $content
 ]);

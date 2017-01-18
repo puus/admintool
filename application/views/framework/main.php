@@ -149,7 +149,7 @@
 
             <aside class="main-sidebar">
               <div class="sidebar">
-                <?php $this->load->view('partials/mainnav.php'); ?>
+                <?php $this->load->view('framework/mainnav.php'); ?>
               </div>
             </aside>
 
