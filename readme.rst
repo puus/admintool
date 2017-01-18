@@ -5,6 +5,13 @@ What is AdminTool?
 AdminTool is a simple framework for web based adinistrative portals. It's built using CodeIgniter, a simple DAL (Data Abstraction Layer), output buffer based view compositing, and the AdminLTE HTML/CSS framework (https://almsaeedstudio.com/themes/AdminLTE/index2.html).
 
 *******************
+Demo
+*******************
+http://admintool.perceptiveweb.solutions
+username: test@test.com
+password: password
+
+*******************
 CodeIgniter (https://github.com/bcit-ci/CodeIgniter)
 *******************
 
